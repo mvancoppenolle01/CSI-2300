@@ -1,0 +1,3 @@
+hello 45
+java 29
+world 26
